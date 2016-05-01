@@ -13,3 +13,36 @@ header#logo {
 header#logo img {
 	max-width: 100%;
 }
+
+#logos a {
+	width: 45%;
+	float: left;
+	display: block;
+}
+
+#logos img {
+	border: 0px;
+	max-height: 192px;
+}
+
+a.register {
+	background: url('redbutton.png') repeat scroll 0 0;
+	color: white;
+	display: block;
+	height: 96px;
+	font-size: 36px;
+	width: 320px;
+	text-align: center;
+	text-decoration: none;
+	padding: 0;
+	margin: auto;
+	line-height: 96px;
+}
+
+a.register:hover {
+	color: yellow;
+}
+
+h2 {
+	margin-left: 1em;
+}
