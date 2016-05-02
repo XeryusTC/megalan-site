@@ -29,6 +29,14 @@ header#logo img {
 	max-height: 192px;
 }
 
+a, a:visited {
+	color: yellow;
+}
+
+a:hover {
+	color: white;
+}
+
 a.register {
 	background: url('redbutton.png') repeat scroll 0 0;
 	color: white;
